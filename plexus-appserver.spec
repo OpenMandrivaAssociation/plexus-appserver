@@ -43,7 +43,7 @@
 
 Name:           plexus-appserver
 Version:        1.0
-Release:        %mkrel 0.a5.5.0.0
+Release:        %mkrel 0.a5.5.0.1
 Epoch:          0
 Summary:        Plexus Application Server
 License:        Apache Software License
@@ -100,7 +100,7 @@ is like a J2EE application server, without all the baggage.
 
 %package javadoc
 Summary:        Javadoc for %{name}
-Group:          Development/Documentation
+Group:          Development/Java
 Requires(post):   /bin/rm,/bin/ln
 Requires(postun): /bin/rm
 
