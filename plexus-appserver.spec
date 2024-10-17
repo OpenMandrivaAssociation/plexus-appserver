@@ -37,7 +37,7 @@ Release:        0.7.a5
 Summary:        Plexus Application Server
 License:        ASL 2.0 and MIT
 Group:          Development/Java
-URL:            http://plexus.codehaus.org/
+URL:            https://plexus.codehaus.org/
 Source0:        plexus-appserver-1.0-alpha-5-src.tar.gz
 # svn export svn://svn.plexus.codehaus.org/plexus/tags/plexus-appserver-1.0-alpha-5/
 # tar czf plexus-appserver-1.0-alpha-5.tar.gz plexus-appserver-1.0-alpha-5/
